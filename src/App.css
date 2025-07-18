@@ -1,0 +1,7 @@
+/* Remove old logo styles and card/read-the-docs. All layout is now in index.css */
+#root {
+  max-width: unset;
+  margin: 0;
+  padding: 0;
+  text-align: unset;
+}

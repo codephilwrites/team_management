@@ -1,0 +1,14 @@
+{
+  "name": "se-admin-electron",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Software Engineering Admin Portal (Electron Desktop)",
+  "author": "Phil Peters <phil.peters@specsavers.com>",
+  "scripts": {
+    "start": "electron .",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "electron": "30.0.0"
+  }
+}
